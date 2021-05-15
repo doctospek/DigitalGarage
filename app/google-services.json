@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14776800778",
+    "project_id": "digital-garage-bedfe",
+    "storage_bucket": "digital-garage-bedfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14776800778:android:2ea308f8c8671836ca31f3",
+        "android_client_info": {
+          "package_name": "com.app.digitalgarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14776800778-ot2p49o6nmtf3q0or4sb29vv24ktbqmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ZUDkXHAnJQsoLGjhvCyxdg9Hwvw3vM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14776800778-ot2p49o6nmtf3q0or4sb29vv24ktbqmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
